@@ -1,0 +1,3 @@
+# Dependencias para la aplicación RAG
+streamlit>=1.30.0
+pypdf>=3.17.0
